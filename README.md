@@ -1,6 +1,6 @@
-# Project Title
+# ДЗ-10.
 
-## Table of Contents
+## Содержание
 
 - [About](#about)
 - [Usage](#usage)
